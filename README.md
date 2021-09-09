@@ -2,7 +2,7 @@
 Add Apex Weapons list and .json config
 New weapons add
 Upgrade all weapons rpm
-
+Now need Spray Patterns
 
 # 04.11.2019
 This repo is pretty abandoned but script still working good, so you can modify it and use it. No further updates from me.
