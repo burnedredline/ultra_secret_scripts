@@ -1,3 +1,9 @@
+# 09.09.2021
+Add Apex Weapons list and .json config
+New weapons add
+Upgrade all weapons rpm
+
+
 # 04.11.2019
 This repo is pretty abandoned but script still working good, so you can modify it and use it. No further updates from me.
 Also you can make pull requests with your additional modifications, I check it from time to time and will merge any good modifications.
@@ -38,7 +44,7 @@ As example for running NoRecoil script for Apex Legends use:
 `python ./very_secret_script.py apex`  
 
 #### [KEYBINDINGS]
-**F4** - Trun on/off NoRecoil  
+**F4** - Turn on/off NoRecoil  
 **F10** - Stop script  
 **NUM_4** - Previous weapon  
 **NUM_6** - Next weapon  
