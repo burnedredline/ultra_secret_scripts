@@ -2,7 +2,7 @@
   "weapons": [
     {
       "name": "Alternator",
-      "rpm": 640,
+      "rpm": 600,
       "check_image": "alternator.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -35,7 +35,7 @@
     },
     {
       "name": "EVA-8",
-      "rpm": 128,
+      "rpm": 126,
       "check_image": "eva8.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "G7 Scout",
-      "rpm": 273,
+      "rpm": 240,
       "check_image": "g7.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -71,7 +71,7 @@
     },
     {
       "name": "Hemlok",
-      "rpm": 490,
+      "rpm": 441,
       "check_image": "hemlok.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -80,7 +80,7 @@
     },
     {
       "name": "Kraber",
-      "rpm": 36,
+      "rpm": 25,
       "check_image": "kraber.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -89,7 +89,7 @@
     },
     {
       "name": "Longbow",
-      "rpm": 86,
+      "rpm": 78,
       "check_image": "longbow.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -98,7 +98,7 @@
     },
     {
       "name": "MASTIFF",
-      "rpm": 96,
+      "rpm": 66,
       "check_image": "mastiff.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -107,7 +107,7 @@
     },
     {
       "name": "Mozambique",
-      "rpm": 180,
+      "rpm": 132,
       "check_image": "mozambique.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -116,7 +116,7 @@
     },
     {
       "name": "P2020",
-      "rpm": 430,
+      "rpm": 420,
       "check_image": "p2020.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -125,7 +125,7 @@
     },
     {
       "name": "Peacekeeper",
-      "rpm": 58,
+      "rpm": 44,
       "check_image": "peacekeeper.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -134,7 +134,7 @@
     },
     {
       "name": "Prowler",
-      "rpm": 800,
+      "rpm": 697,
       "check_image": "prowler.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -169,7 +169,7 @@
     },
     {
       "name": "R-301",
-      "rpm": 720,
+      "rpm": 810,
       "check_image": "r301.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -194,7 +194,7 @@
     },
     {
       "name": "RE-45",
-      "rpm": 750,
+      "rpm": 780,
       "check_image": "re45.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -217,7 +217,7 @@
     },
     {
       "name": "Spitfire",
-      "rpm": 512,
+      "rpm": 540,
       "check_image": "spitfire.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -226,7 +226,7 @@
     },
     {
       "name": "Triple Take",
-      "rpm": 88,
+      "rpm": 78,
       "check_image": "tripletake.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -235,7 +235,7 @@
     },
     {
       "name": "Sentinel",
-      "rpm": 88,
+      "rpm": 31,
       "check_image": "sentinel.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -244,7 +244,7 @@
     },
     {
       "name": "ChargeRifle",
-      "rpm": 88,
+      "rpm":  26,
       "check_image": "chargerifle.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -253,7 +253,7 @@
     },
     {
       "name": "BocekCompoundBow",
-      "rpm": 88,
+      "rpm": 180,
       "check_image": "bocek.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -262,7 +262,7 @@
     },
     {
       "name": "30-30Repeater",
-      "rpm": 88,
+      "rpm": 139,
       "check_image": "3030repeater.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -271,7 +271,7 @@
     },
     {
       "name": "Rampage",
-      "rpm": 88,
+      "rpm": 300,
       "check_image": "rampage.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -280,7 +280,7 @@
     },
     {
       "name": "L-StarEMG",
-      "rpm": 88,
+      "rpm": 600,
       "check_image": "lstaremg.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -289,7 +289,7 @@
     },
     {
       "name": "VoltSMG",
-      "rpm": 88,
+      "rpm": 720,
       "check_image": "voltsmg.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
@@ -298,7 +298,7 @@
     },
     {
       "name": "Wingman",
-      "rpm": 205,
+      "rpm": 156,
       "check_image": "wingman.png",
       "check_area": [1600, 970, 1630, 1000],
       "pattern": [
