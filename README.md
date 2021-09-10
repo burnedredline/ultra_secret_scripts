@@ -1,3 +1,9 @@
+# 11.09.2021
+- Add Apex Weapons new image files
+- 7 New weapons
+- Now need Spray Patterns,
+- Pattern_generator Sensivity coding.....
+
 # 09.09.2021
 - Add Apex Weapons list and .json config
 - New weapons add
