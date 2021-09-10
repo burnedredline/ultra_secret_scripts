@@ -33,7 +33,8 @@ Original UnKnoWnCheaTs forum thread is [here](https://www.unknowncheats.me/forum
 `overlay_label.py` - just a class to draw overlay label  
 `image_search.py` - just some funcs to work with images (detect current weapons)  
 `keyboard_input.py` - this one I downloaded from web (simple methods didn't work)  
-`weapon_data/` - here you should store configs as `GAMENAME.json` files and images inside `GAMENAME_img/` dir.  
+`weapon_data/` - here you should store configs as `GAMENAME.json` files and images inside `GAMENAME_img/` dir. 
+`start.bat` - Start - main script
 
 #### [INSTALLATION]
 All you need for this script is Python3 with libs listed in `requirements.txt`.  
@@ -48,6 +49,9 @@ To run this script you should use `cmd` command.
 Where CONFIG is the name of config (without .json) stored in `weapon_data/` dir  
 As example for running NoRecoil script for Apex Legends use:  
 `python ./very_secret_script.py apex`  
+
+Start.bat 
+Starting a script / But install only c:/ultra folder.
 
 #### [KEYBINDINGS]
 **F4** - Turn on/off NoRecoil  
